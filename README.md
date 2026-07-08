@@ -7,6 +7,20 @@ An interactive Power BI dashboard that gives hospital administrators a single, r
 
 ---
 
+## 📸 Dashboard Preview
+
+**Overview Page** - KPI summary, department comparisons, and admissions breakdown
+
+![Hospital Management Dashboard - Overview](./screenshots/overview.png)
+
+**Admissions Trend & Revenue Breakdown Page** - monthly trend, AI narrative, and revenue decomposition tree
+
+![Hospital Management Dashboard - Trends and Revenue](./screenshots/trends-revenue.png)
+
+> Add your two screenshots to a `/screenshots` folder in the repo root and name them `overview.png` and `trends-revenue.png` (or update the paths above to match your actual filenames/folder).
+
+---
+
 ## 📌 Project Overview
 
 Hospital operations teams typically pull performance numbers from multiple disconnected sources (admissions logs, billing systems, clinical records), which slows down decision-making and makes it difficult to spot cross-departmental trends. This creates a real risk: administrators can miss early warning signs of bed shortages, rising readmissions, or underperforming departments until the problem is already costly.
