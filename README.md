@@ -11,13 +11,11 @@ An interactive Power BI dashboard that gives hospital administrators a single, r
 
 **Overview Page** - KPI summary, department comparisons, and admissions breakdown
 
-![Hospital Management Dashboard - Overview](Hospital-Management-Dashboard---PowerBi/blob/main/Capture1.JPG)
+![Hospital Management Dashboard - Overview](https://raw.githubusercontent.com/RealKay1/Hospital-Management-Dashboard---PowerBi/main/Capture1.JPG)
 
 **Admissions Trend & Revenue Breakdown Page** - monthly trend, AI narrative, and revenue decomposition tree
 
-![Hospital Management Dashboard - Trends and Revenue](./screenshots/trends-revenue.png)
-
-> Add your two screenshots to a `/screenshots` folder in the repo root and name them `overview.png` and `trends-revenue.png` (or update the paths above to match your actual filenames/folder).
+![Hospital Management Dashboard - Trends and Revenue](https://raw.githubusercontent.com/RealKay1/Hospital-Management-Dashboard---PowerBi/main/Capture2.JPG)
 
 ---
 
