@@ -11,7 +11,7 @@ An interactive Power BI dashboard that gives hospital administrators a single, r
 
 **Overview Page** - KPI summary, department comparisons, and admissions breakdown
 
-![Hospital Management Dashboard - Overview](.Capture1.JPG)
+![Hospital Management Dashboard - Overview](Hospital-Management-Dashboard---PowerBi/blob/main/Capture1.JPG)
 
 **Admissions Trend & Revenue Breakdown Page** - monthly trend, AI narrative, and revenue decomposition tree
 
